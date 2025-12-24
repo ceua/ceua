@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&pause=1000&color=18CA1F&background=69FF2000&center=true&vCenter=true&repeat=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&pause=1000&color=18CA1F&background=69FF2000&center=true&vCenter=true&repeat=false&width=600&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,7 +10,8 @@
 
 <div align="center">
   
-  ### 👨‍💻 About Me
+  ### <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=fffffff&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=About+Me" alt="Typing SVG" />
+
   
   ```javascript
   const ceua = {
