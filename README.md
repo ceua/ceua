@@ -10,7 +10,13 @@
 </br>
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Discord+Profile" alt="Typing SVG" /></h2>
-<h2 align="center">
-<a href="https://discord.com/users/183355348646625280" target="_blank">
-   <img src="https://lanyard.cnrad.dev/api/183355348646625280?theme=black&bg=808080&animated=true&hideDiscrim=false&borderRadius=20px">
-</a>
+<p align="center">
+  <a href="https://discord.com/users/183355348646625280">
+    <img
+      src="https://lanyard.cnrad.dev/api/183355348646625280?theme=dark&animated=true&hideDiscrim=true&borderRadius=20px"
+      width="420"
+      alt="Discord Presence"
+    />
+  </a>
+</p>
+
