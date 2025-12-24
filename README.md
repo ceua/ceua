@@ -67,6 +67,6 @@
 
 <div align="center">
     
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&pause=1000&color=F0FF32&background=69FF2000&center=true&vCenter=true&repeat=false&width=500&lines=Thanks+for+visiting!+%F0%9F%98%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&pause=1000&color=F0FF32&background=69FF2000&center=true&vCenter=true&repeat=false&width=500&lines=Thanks+for+visiting!" alt="Typing SVG" />
   
 </div>
