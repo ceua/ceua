@@ -16,11 +16,10 @@
   ```javascript
   const ceua = {
     name: "can",
-    role: "Web Developer",
-    location: "Hawaii",
-    interests: ["Web Development", "Open Source", "Automation"],
-    currentlyLearning: ["Advanced JavaScript", "Node.js"],
-  };
+    role: "web developer",
+    location: "hawaii",
+    interests: ["web dev", "open src", "automation"]
+    };
   ```
   
 </div>
